@@ -11,9 +11,16 @@ $ ./Counter-Strike-installer-x86_64.AppImage
 ```
 ## Abrir el juego
 
-```
-  $ ~/.local/cs/cs
-```
+* Counter Strike 1.6
+
+	```
+	$ ~/.local/cs/cs
+	```
+* Half Life
+
+	```
+	$ ~/.local/cs/hl
+	```
 
 ## Agregar voces personalizadas
 
