@@ -1,4 +1,7 @@
 # Counter Strike 1.6
+
+![](.img/CounterStrike.png)
+
 ## Instalacion en Debian
 
 ```
