@@ -28,3 +28,24 @@
 	$ sudo apt install libjpeg8
 	$ sudo dpkg -i gzdoom_3.4.1_armhf.deb
 	```
+
+## Configuración
+
+![](.img/options.png)
+
+| CUSTOMIZE CONTROLS	| 		| 
+|-----------------------|---------------|
+| Fire			| Mouse 1	|
+| Secondary Fire	| Mouse 2	|
+| Use/Open		| E		|
+| Mouse Forward		| W		|
+| Mouse Backward	| S		|
+| Strafe Left		| A		|
+| Strafe Right		| D		|
+| Jump			| Space		|
+| Crouch		| C		|
+
+
+| MOUSE OPTIONS		| 		|
+|-----------------------|---------------|
+| Always Mouselook	| On		|
